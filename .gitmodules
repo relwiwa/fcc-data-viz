@@ -1,3 +1,6 @@
 [submodule "fcc-bar-chart"]
 	path = fcc-bar-chart
 	url = https://github.com/relwiwa/fcc-bar-chart
+[submodule "fcc-scatterplot-graph"]
+	path = fcc-scatterplot-graph
+	url = https://github.com/relwiwa/fcc-scatterplot-graph
