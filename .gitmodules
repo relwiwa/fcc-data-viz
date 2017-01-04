@@ -1,0 +1,3 @@
+[submodule "fcc-bar-chart"]
+	path = fcc-bar-chart
+	url = https://github.com/relwiwa/fcc-bar-chart
